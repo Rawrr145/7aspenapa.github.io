@@ -1,0 +1,220 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'comic sans ms';
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.logo a {
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    font-family: courier;
+    color: #37353E;
+}
+
+.menu {
+    float: right;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background: #11ca1ad3;
+    z-index: 1;
+    border:2px solid #084e01
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.kolom .deeskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #37353E;
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #37353E;
+    width: 100%;
+    line-height: 50px;
+}
+
+.rawrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+}
+
+.biodata {
+    margin: 130px;
+    margin-top: 40px;
+}
+
+.struktur {
+    margin: 50px;
+    margin-top: 40px;
+}
+
+.daftar {
+    margin: 50px;
+    margin-top: 30px;
+}
+
+.hehehe {
+    margin: 100px;
+    width: auto;
+    margin-top: 50px;
+}
+
+.uuuaaa {
+    margin: 40px;
+    margin-top: 50px;
+}
+
+.aaaaaa {
+    margin-top: 40px;
+
+}
+
+.rifqi {
+    width: 1200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px;
+}
+
+.buneni {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.fakhri {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.rawrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 400px;
+}
+
+.rawrrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 400px;
+}
+
+.sherinda {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+    
+.rawrrrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 400px;
+}
+
+.fika {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.rawrrrrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 400px;
+}
+
+.fatin {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.rawrrrrrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 385px;
+}
+
+.dina {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.rawrrrrrrrr {
+    width: 1250px;
+    margin: auto;
+    position: relative;
+    margin-top: 400px;
+}
+
+.lyka {
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.logospenapa {
+    margin: 19px;
+    margin-top: 20px;
+    margin-bottom: -15px;
+}
